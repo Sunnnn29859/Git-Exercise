@@ -13,7 +13,6 @@ c) Update this README.md file:
      Section 1: Enter your name and email address.
 
      Section 2: Embed the quote image from the Picture directory.
-
      Section 3: Embed the GIF animation from the Animation directory.
 
      Section 4: Type the quote as plain text.
@@ -24,9 +23,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: Kasama Damrianan
-Email: kasama254809@gmail.com
-
+Name: Kasama Damrianan, Kantapong Choochokchai,  Krittapas Tarujettanarom
+Email: 6730022621@student.chula.ac.th, 6730032921@student.chula.ac.th, 6730014621@student.chula.ac.th
 🖼️ 2. Picture
 
 ![Quote](Picture/Quote.jpg)
