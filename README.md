@@ -33,7 +33,7 @@ Email: kasama254809@gmail.com
 
 🎞️ 3. Animation
 
-![Git Animation](Animation/GITGIF.gif)
+![Git Animation](Animation/GitGif.gif)
 
 💬 4. Quote
 
