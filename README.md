@@ -29,7 +29,7 @@ Email: kasama254809@gmail.com
 
 🖼️ 2. Picture
 
-![Quote](Picture/Quote.png)
+![Quote](Picture/Quote.jpg)
 
 🎞️ 3. Animation
 
@@ -37,6 +37,6 @@ Email: kasama254809@gmail.com
 
 💬 4. Quote
 
-The best preparation for tomorrow is doing best today.
+"The best preparation for tomorrow is doing best today."
 
 🎬 5. Video Lecture
