@@ -24,19 +24,19 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name: Kasama Damrianan
+Email: kasama254809@gmail.com
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git Animation](Animation/GitGif.gif)
 
 💬 4. Quote
 
-*** Read and Place TEXT from Quote.* here  ***
+The best preparation for tomorrow is doing best today.
 
 🎬 5. Video Lecture
